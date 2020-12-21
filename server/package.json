@@ -1,0 +1,24 @@
+{
+  "name": "web-socket-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethneary/web-socket-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethneary/web-socket-app/issues"
+  },
+  "homepage": "https://github.com/kennethneary/web-socket-app#readme",
+  "dependencies": {
+    "socket.io": "^3.0.4",
+    "ws": "^7.4.1"
+  }
+}
